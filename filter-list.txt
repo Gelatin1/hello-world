@@ -1,33 +1,18 @@
-! 2023-11-11 https://diggitymarketing.com
 diggitymarketing.com##.tve_empty_dropzone.tve_brdr_solid.tve_white.tve_blank_set.tve_editor_main_content.thrv_wrapper.tve_element_hover.tve_no_icons.tve_no_drag.thrv-leads-form-box.inline-container
 diggitymarketing.com##.element-is-sticky.lazyloaded.entered.sticky-element-original.style\=.size-full.aligncenter.tsi-fixed2
-
-! 2024-01-13 https://regex101.com
 regex101.com##.XNbml.jyUE5
-
-! 2024-01-22 https://www.grammarly.com
 www.grammarly.com##._3YOHL-gradient._358dA-static._2BjAA-show._3uFk6-banner
 www.grammarly.com##._3YOHL-gradient._22KLo-sticky._2BjAA-show._3uFk6-banner
 www.grammarly.com##.tool__product
 www.grammarly.com##._16iRt-container
 www.grammarly.com##._1hrQx-container
-
-! 2024-01-22 https://www.dictionary.com
 www.dictionary.com###quiz
 www.dictionary.com##.jVP1dndWm_O5ernARXUz
 www.dictionary.com##.Cl7wFI5sfx1ect4PtF0O
-
-! 2023-11-03 https://www.omniglot.com
 ||www.omniglot.com/images/banners/banner_*.jpg$image
-
-! 2023-11-09 https://www.guinnessworldrecords.com
 ||www.guinnessworldrecords.com/images/css/g.jpg$image
-
-! 2024-01-02 https://fileinfo.com
 fileinfo.com##.promo
 fileinfo.com##.adBotLB
-
-! 2024-01-23 https://www.grammarly.com
 www.grammarly.com##.ReactModalPortal
 www.grammarly.com##body:remove-class(_2oIoL-disableScroll)
 www.grammarly.com##body:watch-attr(class):remove-class(_2oIoL-disableScroll)
@@ -35,8 +20,6 @@ www.grammarly.com##.headerDesktopRightItemsContainer_InJ6meKi > .Vv4mc-sizeSmall
 www.grammarly.com##.tool__product
 www.grammarly.com##._16iRt-container
 www.grammarly.com##._1hrQx-container
-
-! 2024-01-26 https://en.wikipedia.org
 en.wikipedia.org##.vector-sitenotice-container
 
 ! free robux sites
@@ -69,13 +52,10 @@ nikita-malibu.com
 planetrbx.com
 topevo.top
 
-! 2024-01-28 https://www.tapinto.net
 www.tapinto.net##.sign_up_container-0-2-266
 www.tapinto.net##.main_container-0-2-342
 www.tapinto.net##.subscriber_block-0-2-410
 www.tapinto.net##div.block_container-0-2-409:nth-of-type(4)
-
-! 2024-01-28 https://www.pcgamer.com
 www.pcgamer.com##.exit-intent__background.exit-intent
 www.pcgamer.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 
@@ -112,11 +92,8 @@ vbucksbounty.org
 telegra.ph
 weweekly.us
 
-! 2024-01-29 https://www.dexerto.com
 www.dexerto.com##.flex.my-8.lg\:col-span-7.col-span-full.dark\:bg-neutral-black.md\:gap-x-5.md\:justify-between.md\:items-center.md\:flex-row.md\:py-5.bg-neutral-grey-4.px-5.py-\[14\.5px\].w-full.flex-col
-
-! 2024-01-29 https://dotesports.com
 dotesports.com##.wp-block-gamurs-related-block
-
-! 2024-01-29 https://www.sportskeeda.com
 www.sportskeeda.com##.promoted-img
+www.audiocheck.net###col2 > div.section:nth-of-type(2)
+
