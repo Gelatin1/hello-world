@@ -1,0 +1,18 @@
+! 2023-11-11 https://diggitymarketing.com
+diggitymarketing.com##.tve_empty_dropzone.tve_brdr_solid.tve_white.tve_blank_set.tve_editor_main_content.thrv_wrapper.tve_element_hover.tve_no_icons.tve_no_drag.thrv-leads-form-box.inline-container
+diggitymarketing.com##.element-is-sticky.lazyloaded.entered.sticky-element-original.style\=.size-full.aligncenter.tsi-fixed2
+
+! 2024-01-13 https://regex101.com
+regex101.com##.XNbml.jyUE5
+
+! 2024-01-22 https://www.grammarly.com
+www.grammarly.com##._3YOHL-gradient._358dA-static._2BjAA-show._3uFk6-banner
+www.grammarly.com##._3YOHL-gradient._22KLo-sticky._2BjAA-show._3uFk6-banner
+www.grammarly.com##.tool__product
+www.grammarly.com##._16iRt-container
+www.grammarly.com##._1hrQx-container
+
+! 2024-01-22 https://www.dictionary.com
+www.dictionary.com###quiz
+www.dictionary.com##.jVP1dndWm_O5ernARXUz
+www.dictionary.com##.Cl7wFI5sfx1ect4PtF0O
