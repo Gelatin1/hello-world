@@ -17,9 +17,6 @@ www.grammarly.com##.ReactModalPortal
 www.grammarly.com##body:remove-class(_2oIoL-disableScroll)
 www.grammarly.com##body:watch-attr(class):remove-class(_2oIoL-disableScroll)
 www.grammarly.com##.headerDesktopRightItemsContainer_InJ6meKi > .Vv4mc-sizeSmall._3VN5q-shapeRound.A2rlO-schemePrimaryOnLight._2kB5f-basicButton
-www.grammarly.com##.tool__product
-www.grammarly.com##._16iRt-container
-www.grammarly.com##._1hrQx-container
 en.wikipedia.org##.vector-sitenotice-container
 
 ! free robux sites
