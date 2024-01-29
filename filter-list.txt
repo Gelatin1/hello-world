@@ -97,3 +97,11 @@ www.audiocheck.net###colB > div.section:nth-of-type(2)
 www.omniglot.com##.homeads
 poki.com##.fdbvfqZ58O5bCYiCaNgd.yqRHsCZfzhtS8CI82MRw
 poki.com##.ujDmVcWGkbWvOqygag3K.yqRHsCZfzhtS8CI82MRw
+www.reuters.com##.refinitiv-promo-bar__container__3YPMt
+www.minitool.com##.page-bottom-fixed
+www.minitool.com##.article-share-wrap
+www.minitool.com##.js-article-inner-twitte.article-inner-twitter-boxbtn
+www.lifewire.com##.mntl-block.mntl-jwplayer-broad.article__broad-video--jw.comp
+www.miniclip.com##.mc-consents-wrapper
+electricliterature.com##.article-share-container-cont
+electricliterature.com##.needs-placing.wp-block-subscribe
