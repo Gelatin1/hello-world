@@ -105,3 +105,7 @@ www.lifewire.com##.mntl-block.mntl-jwplayer-broad.article__broad-video--jw.comp
 www.miniclip.com##.mc-consents-wrapper
 electricliterature.com##.article-share-container-cont
 electricliterature.com##.needs-placing.wp-block-subscribe
+www.facebook.com##.x1u8a7rm.x17qophe.xixxii4.x1ye3gou.x1s14bel.xn6708d.x1xy6bms.xds687c.x9f619.xayqjjm.x1ey2m1c.x2bj2ny.x193iq5w.x2lah0s.xdt5ytf.x78zum5
+wixsite.com###WIX_ADS
+www.scribendi.com##.show.hidden-xs.hidden-sm
+www.uptodate.com###onetrust-consent-sdk
