@@ -109,3 +109,12 @@ www.facebook.com##.x1u8a7rm.x17qophe.xixxii4.x1ye3gou.x1s14bel.xn6708d.x1xy6bms.
 wixsite.com###WIX_ADS
 www.scribendi.com##.show.hidden-xs.hidden-sm
 www.uptodate.com###onetrust-consent-sdk
+www.wattpad.com##.comments-ad-unit.reading-widget
+www.wattpad.com###readinglong_bottom-1707063124189
+www.wattpad.com###readinglong_top-1707063124173
+www.wattpad.com##.hasRun.hasIO.reading-top-ad
+accounts.crowdin.com##.cky-box-bottom-right.cky-consent-container
+tunein.com##.upsell-module__newDesign___BAEOA.upsell-module__sidebarWrapper___pElx8
+ipa.typeit.org##.popup
+for5.net
+forista.pages.net
