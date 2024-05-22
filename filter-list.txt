@@ -121,3 +121,7 @@ ipa.typeit.org##.popup
 for5.net
 forista.pages.net
 gotranscript.com###webWidget
+thenerdstash.com##.bOvWNQ
+slumberhabit.com##div.product-banner
+virtualpiano.net##._2e0r68
+discover.hubpages.com##.is-fallback-player
