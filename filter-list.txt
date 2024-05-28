@@ -130,3 +130,6 @@ downinspector.com##.aff-banner
 ytbdownload.com##.open.popup
 www.vice.com##.article__embed-component
 www.vice.com##.abc__vp
+lacrossetribune.com###lee-subscription-wall
+lacrossetribune.com##.in.fade.modal-backdrop
+lacrossetribune.com##^script:has-text('this.$body.addClass("modal-open")')
