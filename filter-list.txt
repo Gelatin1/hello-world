@@ -50,8 +50,6 @@ www.wattpad.com##.hasRun.hasIO.reading-top-ad
 accounts.crowdin.com##.cky-box-bottom-right.cky-consent-container
 tunein.com##.upsell-module__newDesign___BAEOA.upsell-module__sidebarWrapper___pElx8
 ipa.typeit.org##.popup
-for5.net
-forista.pages.net
 gotranscript.com###webWidget
 thenerdstash.com##.bOvWNQ
 slumberhabit.com##div.product-banner
@@ -64,3 +62,4 @@ www.vice.com##.abc__vp
 lacrossetribune.com###lee-subscription-wall
 lacrossetribune.com##.in.fade.modal-backdrop
 lacrossetribune.com##^script:has-text('this.$body.addClass("modal-open")')
+*##+js(nosiif, visibility, 1000)
